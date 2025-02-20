@@ -22,3 +22,9 @@ Key Features:
 🔄 Auto-Sync: Real-time synchronization ensures everyone sees the latest updates.
 🔐 Secure Rooms: Private collaboration spaces with unique room IDs.
 Sync Lab is perfect for pair programming, interviews, brainstorming sessions, and teaching environments. 🚀
+
+**OUTPUT OF THE TASK**
+
+![Image](https://github.com/user-attachments/assets/55ea407e-fb49-40d4-8ab9-16ad4f061f7c)
+![Image](https://github.com/user-attachments/assets/b9b2eb67-9663-4260-acdb-12c098ba7edd)
+![Image](https://github.com/user-attachments/assets/caf87e75-55b7-4d94-9ed0-7362b09ed796)
